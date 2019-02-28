@@ -1,0 +1,25 @@
+body{
+	background: gray;
+}
+h1{
+	border: 2px solid black;
+}
+h2{
+	color: purple;
+}
+input{
+	border: 2px solid rgb(144,0,0);
+}
+div p{
+	background: yellow;
+
+}
+textarea{
+	border: 2px solid black;
+	width: 400px;
+	height: 200px;
+}
+
+a{
+	color: red;
+}

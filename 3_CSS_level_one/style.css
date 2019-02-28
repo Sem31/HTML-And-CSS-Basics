@@ -1,0 +1,18 @@
+/*---Comment */
+/*
+basic CSS tag
+selected tag{
+	property :value;
+}*/
+
+h1,h2{
+	color: blue;
+	text-align: center;
+}
+
+li{
+	color: rgb(255,97,1);
+}
+p{
+	color:red;
+}

@@ -1,0 +1,20 @@
+body{
+	background: orangered;
+}
+
+.firstdiv{
+	background: black;
+	color: green;
+}
+.seconddiv{
+	background: green;
+	color: yellow;
+}
+
+#iddiv{
+	background: gray;
+	color: red;
+}
+h1{
+	background: blue;
+}

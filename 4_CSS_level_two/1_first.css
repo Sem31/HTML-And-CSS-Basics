@@ -1,0 +1,20 @@
+h1{
+	font-family: fantasy;
+}
+
+p{
+	font-family: monospace;
+	font-weight: bold;
+}
+
+body{
+	font-size: 1em;
+}
+#second{
+	font-family: cursive;
+}
+
+
+
+/* 1 em = 16px
+2em = 32px */
